@@ -7,17 +7,30 @@ layout: recipe
 ## I﻿ngredients
 
 \-12 slices thick-cut, naturally smoked bacon
+
 \-6 tablespoons mayonnaise
+
 \-1 tablespoon ketchup
+
 \-1 tablespoon spicy brown or Dijon mustard
+
 \-2 tablespoons sweet pickle relish
+
 \-Freshly ground black pepper
+
 \-24 ounces (1 1/2 pounds) freshly ground beef chuck
+
 \-Kosher salt
+
 \-4 soft hamburger rolls
+
 \-4 slices American or cheddar cheese
+
 \-1 medium onion, finely sliced (about 3/4 cup)
+
 \-12 dill pickle chips
+
+
 
 ## Method
 
