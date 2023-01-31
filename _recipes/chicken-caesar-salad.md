@@ -7,9 +7,9 @@ layout: recipe
 ## Ingredients
 
 \-1 medium ciabatta loaf (or 4 thick slices crusty white bread)
--3 tbsp olive oil
--2 skinless, boneless chicken breasts
--1 large cos or romaine lettuce, leaves separated
+\-3 tbsp olive oil
+\-2 skinless, boneless chicken breasts
+\-1 large cos or romaine lettuce, leaves separated
 
 For the dressing:
 -1 garlic clove
