@@ -4,8 +4,8 @@ date: 2023-01-31T15:22:52.776Z
 order: 4
 layout: recipe
 ---
-
 #﻿# INGREDIENTS
+
 -12 slices thick-cut, naturally smoked bacon
 -6 tablespoons mayonnaise
 -1 tablespoon ketchup
