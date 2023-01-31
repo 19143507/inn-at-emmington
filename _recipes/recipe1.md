@@ -5,35 +5,36 @@ order: 2
 layout: recipe
 published: true
 ---
-## Ingredients
 
--1 pound multicolored or red baby potatoes
+Ingredients
 
--8 ounce trimmed haricots verts (French green beans)
+\-1 pound multicolored or red baby potatoes
 
--4 large eggs
+\-8 ounce trimmed haricots verts (French green beans)
 
--2 ½ teaspoons Dijon mustard
+\-4 large eggs
 
--1 teaspoon grated lemon zest, plus 1 Tbsp. fresh juice (from 1 lemon), divided
+\-2 ½ teaspoons Dijon mustard
 
--1 teaspoon kosher salt, divided
+\-1 teaspoon grated lemon zest, plus 1 Tbsp. fresh juice (from 1 lemon), divided
 
--1 teaspoon black pepper, divided
--3 tablespoons finely chopped shallot (from 1 medium shallot)
+\-1 teaspoon kosher salt, divided
 
--½ teaspoon honey
+\-1 teaspoon black pepper, divided
+\-3 tablespoons finely chopped shallot (from 1 medium shallot)
 
--1 pound skin-on salmon fillet, any pinbones removed
+\-½ teaspoon honey
 
--1 pound mixed lettuces (such as frisée, curly endive and/or green leaf lettuce), torn (about 9cups) (from 2 heads lettuce)
+\-1 pound skin-on salmon fillet, any pinbones removed
 
--½ cup pitted Niçoise olives, halved
+\-1 pound mixed lettuces (such as frisée, curly endive and/or green leaf lettuce), torn (about 9cups) (from 2 heads lettuce)
 
--8 anchovy fillets (from a 3.3-ounce jar)
+\-½ cup pitted Niçoise olives, halved
 
--⅓ cup torn fresh flat-leaf parsley
--﻿½ cup extra-virgin olive oil, divided
+\-8 anchovy fillets (from a 3.3-ounce jar)
+
+\-⅓ cup torn fresh flat-leaf parsley
+\-﻿½ cup extra-virgin olive oil, divided
 
 ## Method
 
