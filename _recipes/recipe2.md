@@ -7,11 +7,13 @@ published: true
 ---
 ## Ingredients
 
--3 large Maris Piper potatoes, peeled and cut into large finger-sized pieces-
+\-3 large Maris Piper potatoes, peeled and cut into large finger-sized pieces
 -2l vegetable oil, for deep-frying
 -50ml duck fat
 -2 large duck eggs
 -100g sliced jamón Ibérico or Bayonne ham
+
+
 
 ## Method
 
@@ -24,13 +26,11 @@ Heat the oil in a large, heavy-bottomed pan or deep-fat fryer to 130C or until a
 Step 3:
 Reheat the oil to 190C or until a piece of bread browns in 15 secs. Lower the chips into the hot oil and deep-fry for 4 mins until they are browned and super-crisp. Lift the chips out of the oil with a slotted spoon onto a plate lined with kitchen paper to drain. Sprinkle with salt.
 
-
-
 Step 4:
 Meanwhile, get the duck fat nice and hot in a large frying pan before cracking in the eggs. Fry them gently at first, then turn up the heat if you like the whites crisp. Season generously.
 
 Step 5:
 Divide the ham between two plates with the fried eggs and a generous portion of the triple-cooked chips.
 
-- Serves 4
-- Cooking time 1 hour 
+* Serves 4
+* Cooking time 1 hour
