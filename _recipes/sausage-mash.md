@@ -5,3 +5,5 @@ order: 3
 layout: recipe
 ---
 ## Ingredients
+
+## Method
