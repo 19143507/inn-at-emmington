@@ -2,7 +2,7 @@
 # SITE CONFIGURATION
 url: "https://theinnatemmington.netlify.app"   #change this to yours
 repository: 19143507/inn-at-emmington
-title: Your recipe collection
+title: The Inn At Emmington Presents: Our 5 Most Popular Meals 
 recipemenu: true # you can change to true and a menu of all recipes will appear
 editbutton: true # you can navigate to edit your site by going to https://yoursite.netlify.app/admin
 # change the above to true and an admin button will appear in your footer
