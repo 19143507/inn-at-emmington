@@ -5,7 +5,6 @@ order: 1
 layout: recipe
 published: true
 ---
-
 ## Ingredients
 
 -3 large Maris Piper potatoes, peeled and cut into large finger-sized pieces-
