@@ -7,3 +7,6 @@ layout: recipe
 ## Ingredients
 
 ## Method
+
+- Serves: 4
+- Preparation time: 1 hour
