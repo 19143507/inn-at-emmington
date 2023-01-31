@@ -5,7 +5,7 @@ order: 4
 layout: recipe
 ---
 
-#﻿#INGREDIENTS
+#﻿# INGREDIENTS
 -12 slices thick-cut, naturally smoked bacon
 -6 tablespoons mayonnaise
 -1 tablespoon ketchup
@@ -19,7 +19,7 @@ layout: recipe
 -1 medium onion, finely sliced (about 3/4 cup)
 -12 dill pickle chips
 
-#﻿#METHOD
+#﻿# METHOD
 
 Step 1:
 Adjust oven rack to center and bottom positions, place a 12-inch cast iron skillet on the bottom rack, and preheat oven to 400°F (200°C).
