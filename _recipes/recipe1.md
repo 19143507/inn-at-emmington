@@ -32,8 +32,9 @@ published: true
 
 \-8 anchovy fillets (from a 3.3-ounce jar)
 
-\-⅓ cup torn fresh flat-leaf parsley
--﻿½ cup extra-virgin olive oil, divided
+\-⅓ cup torn fresh flat-leaf parsleY
+
+\-﻿½ cup extra-virgin olive oil, divided
 
 ## Method
 
