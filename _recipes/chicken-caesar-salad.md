@@ -4,7 +4,7 @@ date: 2023-01-31T15:32:28.896Z
 order: 5
 layout: recipe
 ---
-## INGREDIENTS
+## Ingredients
 
 \-1 medium ciabatta loaf (or 4 thick slices crusty white bread)
 -3 tbsp olive oil
@@ -18,8 +18,7 @@ For the dressing:
 -5 tbsp mayonnaise
 -1 tbsp white wine 
 
-## METHOD
-
+## Method
 
 Step 1:
 Heat oven to 200C/fan 180C/gas 6. Tear 1 medium ciabatta into big, ragged croutons or, if you prefer, cut with a bread knife. Spread over a large baking sheet or tray and sprinkle over 2 tbsp olive oil.
