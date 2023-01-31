@@ -4,27 +4,28 @@ date: 2023-01-31T15:07:24.258Z
 order: 3
 layout: recipe
 ---
-## Ingredients
+Ingredients
 
 \-1 tbsp sunflower oil
--8 pork sausages (the best quality you can find)
--small knob of butter
--3 small onions, finely sliced
--1 thyme sprig
--1 bay leaf
--pinch of sugar
--1 heaped tsp plain flour
--1 tbsp red wine vinegar
--1 glass red wine
--1 tsp soy sauce
--400ml beef stock made with 1 stock shot or cube
--For the mash
--1 kg King Edward potatoes, peeled and cut into large chunks
--100ml whole milk or 50ml milk and 50ml cream
--50g cold butter, diced
--grating of nutmeg
+\-8 pork sausages (the best quality you can find)
+\-small knob of butter
+\-3 small onions, finely sliced
+\-1 thyme sprig
+\-1 bay leaf
+\-pinch of sugar
+\-1 heaped tsp plain flour
+\-1 tbsp red wine vinegar
+\-1 glass red wine
+\-1 tsp soy sauce
+\-400ml beef stock made with 1 stock shot or cube
 
-## Method
+For the mash:
+\-1 kg King Edward potatoes, peeled and cut into large chunks
+\-100ml whole milk or 50ml milk and 50ml cream
+\-50g cold butter, diced
+\-grating of nutmeg
+
+Method
 
 Step 1:
 Heat the oven to 200C/180C fan/gas 6. Heat the oil in an ovenproof frying pan and gently sizzle the sausages over a medium-high heat for 8-10 mins, turning them, until browned on all sides. Transfer to a plate, then put the butter in the pan and heat until sizzling. Scatter in the onions, stirring them into the butter, then add the thyme sprig, bay and sugar. Give everything a final stir, then put the sausages on top and drizzle over any juices from the plate. Roast everything for 20 mins, turning the sausages halfway through.
