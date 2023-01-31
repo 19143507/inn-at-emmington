@@ -4,7 +4,7 @@ date: 2023-01-31T15:22:52.776Z
 order: 4
 layout: recipe
 ---
-## I﻿NGREDIENTS
+## I﻿ngredients
 
 \-12 slices thick-cut, naturally smoked bacon
 -6 tablespoons mayonnaise
@@ -19,7 +19,7 @@ layout: recipe
 -1 medium onion, finely sliced (about 3/4 cup)
 -12 dill pickle chips
 
-## METHOD
+## Method
 
 Step 1:
 Adjust oven rack to centre and bottom positions, place a 12-inch cast iron skillet on the bottom rack, and preheat oven to 400°F (200°C).
