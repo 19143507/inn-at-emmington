@@ -13,8 +13,6 @@ published: true
 -2 large duck eggs
 -100g sliced jamón Ibérico or Bayonne ham
 
-
-
 ## Method
 
 Step 1:
@@ -32,5 +30,5 @@ Meanwhile, get the duck fat nice and hot in a large frying pan before cracking i
 Step 5:
 Divide the ham between two plates with the fried eggs and a generous portion of the triple-cooked chips.
 
-* Serves 4
-* Cooking time 1 hour
+* Serves: 4
+* Cooking time: 1 hour
