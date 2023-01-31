@@ -13,7 +13,7 @@ Ingredients
 \-2 large duck eggs
 \-100g sliced jamón Ibérico or Bayonne ham
 
-## Method
+Method
 
 Step 1:
 Put the potatoes in a pan of cold salted water. Bring to the boil, then simmer gently for about 5 mins or until they begin to crack but are still firm (like par-boiling roast potatoes). Drain and spread out on a baking tray. Put in the fridge and leave to cool for at least 1 hr.
