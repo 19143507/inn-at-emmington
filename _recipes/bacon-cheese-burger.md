@@ -48,3 +48,5 @@ Place burger buns under broiler while onions cook and broil until golden brown a
 
 S﻿tep 9:
 Spread mayonnaise mixture on both sides of burger buns. Place 3 pickles on each bottom bun. Top with a burger patty, a pile of onions, and a square of bacon weave. Close buns and serve.
+
+S﻿erves
