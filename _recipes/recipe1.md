@@ -5,8 +5,7 @@ order: 2
 layout: recipe
 published: true
 ---
-
-Ingredients
+## Ingredients
 
 \-1 pound multicolored or red baby potatoes
 
@@ -21,7 +20,7 @@ Ingredients
 \-1 teaspoon kosher salt, divided
 
 \-1 teaspoon black pepper, divided
-\-3 tablespoons finely chopped shallot (from 1 medium shallot)
+-3 tablespoons finely chopped shallot (from 1 medium shallot)
 
 \-½ teaspoon honey
 
@@ -34,13 +33,12 @@ Ingredients
 \-8 anchovy fillets (from a 3.3-ounce jar)
 
 \-⅓ cup torn fresh flat-leaf parsley
-\-﻿½ cup extra-virgin olive oil, divided
+-﻿½ cup extra-virgin olive oil, divided
 
 ## Method
 
 S﻿tep 1:
 Preheat oven to 400°F. Bring a large pot of generously salted water to a boil over high. Add potatoes; cook, until almost tender, about 10 minutes. Add green beans; cook until potatoes are tender and green beans are tender-crisp, about 3 minutes. Using tongs or a slotted spoon, transfer potatoes and green beans to a bowl filled with ice water, reserving boiling water in pot.
-
 
 S﻿tep 2:
 Using a slotted spoon, carefully lower eggs into boiling water; cook until whites are set and yolks are jammy, 7 1/2 minutes. Transfer eggs to bowl of ice water. Let potatoes, green beans, and eggs stand in ice water until cooled, about 5 minutes. Drain. Halve potatoes, and peel and quarter eggs.
@@ -54,5 +52,5 @@ Drizzle remaining 2 tablespoons oil evenly onto a baking sheet. Place salmon, sk
 S﻿tep 5:
 Toss together lettuces and 3 tablespoons of the mustard-lemon juice dressing in a large bowl until lightly coated. Arrange on a platter, or divide evenly among 4 plates. Flake salmon into large pieces, and arrange evenly on lettuces. Top evenly with potatoes, green beans, eggs, and olives. Drape anchovy fillets evenly over salmon and vegetables. Drizzle evenly with remaining dressing, scatter with parsley, and serve.
 
-- Serves: 4
-- Preparation time: 1 hour
+* Serves: 4
+* Preparation time: 1 hour
