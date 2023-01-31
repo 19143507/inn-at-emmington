@@ -33,5 +33,6 @@ Meanwhile, get the duck fat nice and hot in a large frying pan before cracking i
 
 STEP 5
 Divide the ham between two plates with the fried eggs and a generous portion of the triple-cooked chips.
-- Serves 10
-- Cooking time 3 hours 
+
+- Serves 4
+- Cooking time 1 hour 
