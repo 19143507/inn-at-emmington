@@ -58,5 +58,5 @@ Drizzle remaining 2 tablespoons oil evenly onto a baking sheet. Place salmon, sk
 
 Toss together lettuces and 3 tablespoons of the mustard-lemon juice dressing in a large bowl until lightly coated. Arrange on a platter, or divide evenly among 4 plates. Flake salmon into large pieces, and arrange evenly on lettuces. Top evenly with potatoes, green beans, eggs, and olives. Drape anchovy fillets evenly over salmon and vegetables. Drizzle evenly with remaining dressing, scatter with parsley, and serve.
 
-* **Serves: 4**
-* **Preparation time: 1 hour**
+* **S﻿erves: 4**
+* **C﻿ooking Time: 1 hour**
