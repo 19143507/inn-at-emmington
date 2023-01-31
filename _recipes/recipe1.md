@@ -5,9 +5,6 @@ order: 2
 layout: recipe
 published: true
 ---
-
-
-
 ## Ingredients
 
 -1 pound multicolored or red baby potatoes
@@ -37,8 +34,6 @@ published: true
 
 -⅓ cup torn fresh flat-leaf parsley
 -﻿½ cup extra-virgin olive oil, divided
-
-
 
 ## Method
 
