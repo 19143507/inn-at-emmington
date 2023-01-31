@@ -4,9 +4,9 @@ date: 2023-01-31T15:22:52.776Z
 order: 4
 layout: recipe
 ---
-#﻿# INGREDIENTS
+## I﻿NGREDIENTS
 
--12 slices thick-cut, naturally smoked bacon
+\-12 slices thick-cut, naturally smoked bacon
 -6 tablespoons mayonnaise
 -1 tablespoon ketchup
 -1 tablespoon spicy brown or Dijon mustard
@@ -19,11 +19,10 @@ layout: recipe
 -1 medium onion, finely sliced (about 3/4 cup)
 -12 dill pickle chips
 
-#﻿# METHOD
+## METHOD
 
 Step 1:
-Adjust oven rack to center and bottom positions, place a 12-inch cast iron skillet on the bottom rack, and preheat oven to 400°F (200°C).
-
+Adjust oven rack to centre and bottom positions, place a 12-inch cast iron skillet on the bottom rack, and preheat oven to 400°F (200°C).
 
 Step 2:
 Meanwhile, line a rimmed baking sheet with heavy duty aluminum foil. Place six slices of bacon on baking sheet side to side running perpendicular to the edge of the counter. Fold down the top halves of 1st, 3rd, and 5th slices. Place a slice of bacon across the top of the folds, running perpendicular to the first 6 slices, then unfold the bacon so that the new slice is woven over and under every other slice. Fold down the 2nd, 4th, and 6th slices and lay another slice of bacon across the top of the fold. Unfold the slices. Repeat until all 12 slices of bacon have been laid on the baking sheet in an interwoven pattern. Place baking sheet in oven and cook until bacon is crisp, about 25 minutes.
