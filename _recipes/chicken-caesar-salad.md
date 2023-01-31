@@ -62,6 +62,5 @@ Add most of the dressing and toss with your fingers. Scatter the rest of the chi
 
 
 
-**S﻿erves: 4**
-
-**P﻿reparation: 1 hour**
+* **S﻿erves: 4**
+* **C﻿ooking Time: 1 Hour**
