@@ -26,7 +26,6 @@ h2 {
   background-color: violet;
   border: 5px solid black; 
   padding: 20px;
-  width: 100%;
 }
 
 body {
@@ -35,11 +34,6 @@ body {
   background-color: lightcoral;
 }
 
-img {
-  width: 90%;
-  align-self: center;
-  margin: 0 auto; 
-}
 /* the rest is up to you */
 
 
