@@ -16,18 +16,18 @@
 h1 {
   text-align: center;
   background-color: violet;
-  border: 2px solid black; 
+  border: 20px solid black; 
   padding: 20px;
 }
 
 body {
   text-align: center;
-  border: 2px solid black;
+  border: 20px solid black;
   
 }
 
 img {
-  width: 70%;
+  width: 90%;
   align-self: center;
   margin: 0 auto; 
 }
