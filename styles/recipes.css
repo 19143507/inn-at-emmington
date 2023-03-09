@@ -16,7 +16,7 @@
 h1 {
   text-align: center;
   background-color: violet;
-}
+  border: 2px solid black; 
 }
 
 /* the rest is up to you */
