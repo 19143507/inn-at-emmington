@@ -1,5 +1,5 @@
 /*! CSS bare bones for recipes site */
-html {
+ html {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -25,6 +25,7 @@ h2 {
   text-align: center;
   background-color: lightcoral;
   border: 5px solid black;
+  font-size: large;
 }
 
 body {
