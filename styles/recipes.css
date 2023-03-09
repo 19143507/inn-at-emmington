@@ -1,5 +1,4 @@
 /*! CSS bare bones for recipes site */
-
  html {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   -ms-text-size-adjust: 100%;
@@ -16,8 +15,7 @@ main{
 h1 {
   text-align: center;
   background-color: lightcoral;
-  border-top: 5px solid black; 
-  border-bottom: 5px solid black;;
+  border: 5px solid black; 
 }
 
 h2 {
@@ -33,7 +31,7 @@ body {
 }
 
 img {
-  width: 90%;
+  width: 100%;
   align-self: center;
   margin: 0 auto; 
 }
