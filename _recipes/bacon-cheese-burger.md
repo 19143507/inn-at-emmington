@@ -4,6 +4,8 @@ date: 2023-01-31T15:22:52.776Z
 order: 4
 layout: recipe
 ---
+![](../uploads/borgir.jpg)
+
 ## I﻿ngredients
 
 \-12 slices thick-cut, naturally smoked bacon
