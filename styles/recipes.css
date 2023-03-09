@@ -19,6 +19,12 @@ h1 {
   border: 2px solid black; 
 }
 
+body {
+  text-align: center;
+  background-color: violet;
+  border: 2px solid black; 
+}
+
 /* the rest is up to you */
 
 
