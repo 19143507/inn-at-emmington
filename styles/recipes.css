@@ -10,7 +10,7 @@ main{
   margin: 5px;
   padding: 5px;
   box-sizing: border-box;
-  background-color: lightcoral;
+  background-color: azure;
 }
 
 h1 {
@@ -23,7 +23,7 @@ h1 {
 body {
   text-align: center;
   border: 20px solid black;
-  
+  background-color: coral
 }
 
 img {
