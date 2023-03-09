@@ -1,6 +1,6 @@
 ---
 title: "The Inn at Emmington Presents: Our 5 Most Popular Meals "
-coverimage: ../uploads/124181989.jpg
+coverimage: ../uploads/assignment2_photoshopcomposite.jpg
 permalink: /
 layout: recipeshome
 published: true
