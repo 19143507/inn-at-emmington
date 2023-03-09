@@ -21,12 +21,12 @@ h1 {
 
 body {
   text-align: center;
-  background-color: violet;
   border: 2px solid black; 
 }
 
 img {
   width: 100%;
+  align-self: center;
 }
 
 /* the rest is up to you */
