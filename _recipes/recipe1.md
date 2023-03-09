@@ -5,6 +5,8 @@ order: 2
 layout: recipe
 published: true
 ---
+![](../uploads/salmon-n.jpg)
+
 ## Ingredients
 
 \-1 pound multicolored or red baby potatoes
