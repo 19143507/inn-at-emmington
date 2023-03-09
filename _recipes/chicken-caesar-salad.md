@@ -4,6 +4,8 @@ date: 2023-01-31T15:32:28.896Z
 order: 5
 layout: recipe
 ---
+![](../uploads/ccs.jpg)
+
 ## Ingredients
 
 \-1 medium ciabatta loaf (or 4 thick slices crusty white bread)
