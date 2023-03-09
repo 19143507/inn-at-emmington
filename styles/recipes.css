@@ -16,7 +16,15 @@ main{
 h1 {
   text-align: center;
   background-color: violet;
-  border: 5px solid black; 
+  border-top: 5px solid black; 
+  border-bottom: 5px solid black;;
+  padding: 20px;
+}
+
+h2{text-align: center;
+  background-color: violet;
+  border-top: 5px solid black; 
+  border-bottom: 5px solid black;;
   padding: 20px;
 }
 
