@@ -1,7 +1,7 @@
 ---
 title: "The Inn at Emmington (AKA The Home Of Formula 1 In Oxfordshire)
   Presents: Our 5 Most Popular Meals "
-coverimage: ../uploads/assignment2_photoshopcomposite.jpg
+coverimage: ../uploads/cover-image.png
 permalink: /
 layout: recipeshome
 published: true
