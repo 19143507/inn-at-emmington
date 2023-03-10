@@ -19,6 +19,10 @@ published: true
 
 \-100g sliced jamón Ibérico or Bayonne ham
 
+\-﻿any salad items are optional, you may add them if you so wish
+
+\-﻿a sauce of your choice
+
 ## Method
 
 ### Step 1:
