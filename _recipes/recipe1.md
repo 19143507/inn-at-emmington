@@ -5,7 +5,7 @@ order: 2
 layout: recipe
 published: true
 ---
-![](../uploads/salmon-n.jpg)
+![](../uploads/salmon.jpg)
 
 ## Ingredients
 
