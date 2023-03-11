@@ -37,8 +37,6 @@ body {
   text-align: center;
   background-color: khaki;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  border-color: black;
-  border-width: 10px;
 }
 
 img {
@@ -70,8 +68,15 @@ img {
     border: 100%
     
   }
-}
 
+  p:has(img){
+    float:none;
+    border: 3px solid black (134, 134, 134);
+    width: 100%
+    padding 10px;
+    margin-left: 0cm;
+  }
+}
 /* the rest is up to you */
 
 
