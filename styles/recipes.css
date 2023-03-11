@@ -61,6 +61,17 @@ img {
   margin: 1cm;
   padding: 1cm;
 }
+
+@media screen and (max-width: 700px) {
+  main {
+    margin: 0;
+    padding: 1cm;
+    width: 100%;
+    border: 100%
+    
+  }
+}
+
 /* the rest is up to you */
 
 
