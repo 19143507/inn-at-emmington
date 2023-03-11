@@ -26,8 +26,9 @@ h2 {
   background-color: lightcoral;
   border: 5px solid black;
   font-size: x-large;
-  font-family: hand;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 
 body {
   text-align: center;
