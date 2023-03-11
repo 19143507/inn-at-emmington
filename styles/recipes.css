@@ -51,7 +51,7 @@ img {
 
 .recipe-teaser {
 
-  border: 1px solid black;
+  border: 5px solid black;
   flex-basis:300px;
   flex-grow: 1;
   margin: 1cm;
