@@ -90,7 +90,7 @@ nav a {
 }
 
 nav {
-  background-color: cornflowerblue(43, 13, 64, 0.84);
+  background-color: rgba(43, 13, 64, 0.84);
   display: block;
   /*border: 1px solid blue; */
   width: 15%;
