@@ -66,17 +66,17 @@ img {
     padding: 1cm;
     width: 100%;
     border: 100%
-    
   }
 
   p:has(img){
     float:none;
-    border: 3px solid black (134, 134, 134);
+    border: 3px solid black;
     width: 100%
     padding 10px;
     margin-left: 0cm;
   }
 }
+
 /* the rest is up to you */
 
 
