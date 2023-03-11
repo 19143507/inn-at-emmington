@@ -90,7 +90,7 @@ nav a {
 }
 
 nav {
-  background-color: cornflowerblue (43, 13, 64, 0.84);
+  background-color: cornflowerblue(43, 13, 64, 0.84);
   display: block;
   /*border: 1px solid blue; */
   width: 15%;
@@ -98,9 +98,9 @@ nav {
   margin: 0;
   min-width: 120px;
   position: fixed;
-  top: 6em;
+  top:6em;
   left: 0;
-  z-index: 12;
+  z-index: 5;
 }
 
 nav ul {
@@ -108,7 +108,7 @@ nav ul {
 }
 
 nav ul li {
-  font-size: .6rem;
+  font-size: 6rem;
 }
 
 .recipehere {
@@ -155,7 +155,7 @@ nav ul li {
   }
   
   nav ul {
-    font-size: 10rem;
+    font-size: 1rem;
   }
 }
 
