@@ -1,14 +1,18 @@
 /*! CSS bare bones for recipes site */
-  html {
+ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
 
 main{
-  margin: 5px;
-  padding: 5px;
+  margin: 0 auto;
+  padding: .5cm 1.5cm;
   box-sizing: border-box;
   background-color: khaki;
+  width: 70%;
+  max-width: 850px;
+  border: 3px solid black;
+  overflow: auto;
 }
 
 h1 {
@@ -46,12 +50,12 @@ img {
 .list {
   display: flex;
   flex-wrap: wrap;
-  
+  justify-content: space-between;
 }
 
 .recipe-teaser {
 
-  border: 5px solid black;
+  border: 3px solid black;
   flex-basis:300px;
   flex-grow: 1;
   margin: 1cm;
