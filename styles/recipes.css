@@ -1,5 +1,5 @@
 /*! CSS bare bones for recipes site */
- html {
+  html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -45,6 +45,10 @@ img {
   margin: 0 auto; 
 }
 
+.recipehere {
+  color: white;
+}
+
 .list {
   display: flex;
   flex-wrap: wrap;
@@ -66,17 +70,93 @@ img {
     padding: 1cm;
     width: 100%;
     border: 100%
+    
   }
 
   p:has(img){
     float:none;
-    border: 3px solid black;
+    border: 3px solid black (134, 134, 134);
     width: 100%
     padding 10px;
     margin-left: 0cm;
   }
 }
 
+/* the menu */
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav {
+  background-color: cornflowerblue (43, 13, 64, 0.84);
+  display: block;
+  /*border: 1px solid blue; */
+  width: 15%;
+  padding: 10px;
+  margin: 0;
+  min-width: 120px;
+  position: fixed;
+  top: 6em;
+  left: 0;
+  z-index: 12;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  font-size: .6rem;
+}
+
+.recipehere {
+  color: white;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.recipe-teaser {
+
+  border: 3px solid black;
+  flex-basis:300px;
+  flex-grow: 1;
+  margin: 1cm;
+  padding: 1cm;
+}
+
+@media screen and (max-width: 700px) {
+  main {
+    margin: 0;
+    padding: 1cm;
+    width: 100%;
+    border: 100%
+    
+  }
+
+  p:has(img){
+    float:none;
+    border: 3px solid black (134, 134, 134);
+    width: 100%
+    padding 10px;
+    margin-left: 0cm;
+  }
+  
+  nav {
+    margin: 0;
+    position: static;
+    width: 100%;
+  }
+  
+  nav ul {
+    font-size: 1rem;
+  }
+}
 /* the rest is up to you */
 
 
